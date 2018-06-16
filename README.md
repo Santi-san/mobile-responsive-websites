@@ -1,2 +1,2 @@
-# mpbile-responsive-websites
-Mobile responsive websites using html5,css3 and jquery.
+# mobile-responsive-websites
+Mobile responsive websites using html5,css3,flex box,grid,npm,scss,gulp,jquery etc...
